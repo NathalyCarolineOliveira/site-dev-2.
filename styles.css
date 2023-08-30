@@ -1,6 +1,6 @@
 .header {
-    background-color: #333;
-    color: #ff0000;
+    background-color: #52b3da;
+    color: #3068ff;
     text-align: center;
     padding: 1rem;
 }
@@ -13,22 +13,16 @@
 
 }
 
-.flex-item { 
-    flex: 1; 
-    
-
-} 
-
-.flex-container{
-border: 1px solid #ff0000; 
-padding: 1rem; 
-min-width: 265px; 
+.flex-item {
+    flex: 1;
+    border: 1px solid #4864eb;
+    padding: 1rem;
+    min-width: 265px;
 }
 
-.footer { 
-    background-color: #333; 
-    color: #ff0000; 
-    text-align: center; 
-    padding: 1rem; 
-    } 
-    
+.footer {
+    background-color: #52b3da;
+    color: #3068ff;
+    text-align: center;
+    padding: 1rem;
+}
